@@ -3,7 +3,7 @@ public class Etudiant {
     private String nom;
     private double[] notes;
     private double moyenne;
-#creation class etdudianthhggguhiijol
+
     public Etudiant(String nom, double[] notes) {
         this.nom = nom;
         this.notes = notes;
